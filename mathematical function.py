@@ -1,0 +1,10 @@
+import math
+print(math.sin((math.pi)/2))
+print(math.floor(-4.2))
+print(math.ceil(3.76))
+print(math.factorial(8))
+print(math.radians(90))
+print(math.sin(1.5707963267948966))
+print(math.degrees(1.5707963267948966))
+print(math.log(8,2))
+print(math.degrees(math.pi))
